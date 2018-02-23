@@ -1,0 +1,28 @@
+ID,Code,Name,TotalBuild,Tallest _BuildFloor,Mfamily_WalkBuild,MFamily _EleBuild,MFamily_BuildSum,Walkup_Per,Median_Floor,Mean_Floor,Mode_Floor
+1,MN01,Inwood,678,32,213,87,300,0,3,3,
+2,MN35,Washington Heights North,884,21,271,146,417,0,3,4,
+3,MN36,Washington Heights South,1298,32,472,178,650,0,4,4,
+4,MN03,Central Harlem North,2709,30,1287,146,1433,0,5,4,
+5,MN04,Hamilton Heights,1607,24,713,169,882,0,5,6,
+6,MN06,Manhattanville,419,35,161,38,199,0,4,4,
+7,MN09,Morningside Heights,788,26,226,227,453,1,5,6,4
+8,MN11,Central Harlem South,1938,22,947,160,1107,0,5,6,5
+9,MN12,Upper West Side,3165,38,1465,594,2059,0,5,8,4
+10,MN33,East Harlem South,1043,43,294,81,375,0,5,6,5
+11,MN34,East Harlem North,1825,35,591,117,708,0,7,12,5
+12,MN40,Upper East Side,2625,42,321,539,860,1,5,10,4
+13,MN32,Yorkville,1569,46,603,226,829,0,5,7,4
+14,MN31,Lenox Hill,1358,57,293,206,499,0,5,6,4
+15,MN14,Lincoln Square,931,54,342,160,502,0,5,5,5
+16,MN15,Clinton,1448,60,428,117,545,0,4,5,3
+17,MN19,East Midtown,1213,70,145,192,337,1,5,6,5
+18,MN17,Midtown,1997,90,24,94,118,1,7,13,5
+19,MN13,Hudson Yards,2614,73,617,281,898,0,5,5,5
+20,MN20,Murray Hill,1204,57,258,187,445,0,5,5,5
+21,MN21,Gramercy,788,32,181,135,316,0,5,7,5
+22,MN22,East Village,1674,23,519,104,623,0,5,6,5
+23,MN23,West Village,3131,35,780,292,1072,0,4,4,5
+24,MN28,Lower East Side,1116,78,315,117,432,0,3,4,3
+25,MN27,Chinatown,1482,39,123,43,166,0,5,4,5
+26,MN24,SoHo,2465,90,220,283,503,1,5,5,5
+27,MN25,Lower Manhattan,573,104,11,51,62,1,5,7,5
