@@ -45,3 +45,13 @@ height: 250px;
     display: table;
     clear: both;
 }
+
+a {text-decoration: none; }
+
+#bodyText{
+  color: white;
+  text-align: justify;
+  font-family: 'Muli', sans-serif;
+  padding-left:50px;
+    padding-right:50px;
+}
