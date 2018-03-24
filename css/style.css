@@ -55,3 +55,10 @@ a {text-decoration: none; }
   padding-left:50px;
     padding-right:50px;
 }
+
+#textTwo{
+  text-align: justify;
+  font-family: 'Muli', sans-serif;
+  padding-left:50px;
+    padding-right:50px;
+}
